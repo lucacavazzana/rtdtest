@@ -6,7 +6,7 @@
 Welcome to my documentation!
 ============================
 
-Project version 1.0.0
+Project version 2.0.0
 
 :doc:`Getting Started <getting-started>`
     The pillars behind the project
